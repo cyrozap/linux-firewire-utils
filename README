@@ -15,7 +15,8 @@ Installation
 This package uses GNU Autoconf; you can use the standard installation
 sequence:
 
-  configure
+  autoreconf --install
+  ./configure
   make
   make install
 
