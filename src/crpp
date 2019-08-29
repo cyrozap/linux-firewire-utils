@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 
 """IEEE 1212/ IEEE 1394 Configuration ROM pretty printer
 
