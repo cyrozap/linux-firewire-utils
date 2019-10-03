@@ -60,6 +60,7 @@ static const struct vendor {
 		.name = "NEC",
 		.phys = (const struct phy[]) {
 			{ 0x000201, "PD7286x" },
+			{ 0x030151, "PD7285x" },
 			{ 0x050160, "PD7287x" },
 			{}
 		}
